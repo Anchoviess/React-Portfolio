@@ -36,7 +36,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 https://anchoviess.github.io/module20/
 
-github:
+Github:
 
 https://github.com/Anchoviess/React-Portfolio
 
